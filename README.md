@@ -1,5 +1,5 @@
 Animated-Bar-Charts
-UIC CS251 Project 3 - Represents categorical data in a simple,  yet powerful bar chart animations.
+UIC CS251 Project 3, Spring 2022 - Represents categorical data in a simple,  yet powerful bar chart animations.
 
 Please Note:
 Unfortunately, C++ graphics are not super compatible with Linux (virtual machines) and C++ programs
